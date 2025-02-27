@@ -24,8 +24,8 @@ A Flutter app that allows users to **select a profile picture** from the **camer
 
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/your-repo/avatar_picker_flutter.git
-cd avatar_picker_flutter
+git clone https://github.com/sayedmafhh/Pick-Avatar-Flutter.git
+cd Pick-Avatar-Flutter
 ```
 
 ### 2️⃣ **Install Dependencies**
